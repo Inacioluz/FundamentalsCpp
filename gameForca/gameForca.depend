@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1738935136 source:c:\users\josei\prgm\alura\c++\gameforca\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+
