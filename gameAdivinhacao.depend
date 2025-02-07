@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1738194842 source:c:\users\josei\prgm\alura\c++\gameadivinhacao\main.cpp
+1738891543 source:c:\users\josei\prgm\alura\c++\gameadivinhacao\main.cpp
 	<iostream>
+	<cstdlib>
+	<ctime>
 
